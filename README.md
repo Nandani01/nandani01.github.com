@@ -1,2 +1,2 @@
-# nandani01.github.com
+# nandani01.github.io
 My personal github 
